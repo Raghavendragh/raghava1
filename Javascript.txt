@@ -6,5 +6,8 @@ Closures
 Callback
 Hoisting
 
+IIFE
+Chaining
+
 
 Thankyou
