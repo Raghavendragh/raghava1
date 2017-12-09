@@ -4,3 +4,4 @@ Welcome To JavaScript
 
 Closures
 Callback
+Hoisting
