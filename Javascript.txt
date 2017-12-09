@@ -5,3 +5,6 @@ Welcome To JavaScript
 Closures
 Callback
 Hoisting
+
+
+Thankyou
